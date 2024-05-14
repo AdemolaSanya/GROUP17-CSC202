@@ -59,7 +59,7 @@ class Rectangle extends Shape {
 
     @Override
     double calculateVolume() {
-        return 0; // Rectangles are 2D shapes
+        return 0;
     }
 }
 
